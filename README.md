@@ -20,6 +20,7 @@
 
 ## 📂 Projets
 https://gninoue-dev.github.io/gameSnake/
+
 *(à compléter bientôt)*
 
 ---
@@ -57,6 +58,7 @@ https://gninoue-dev.github.io/gameSnake/
 ---
 
 ## 📂 Projects
+https://gninoue-dev.github.io/gameSnake/
 *(to be added soon)*
 
 ---

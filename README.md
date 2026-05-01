@@ -60,6 +60,7 @@ https://github.com/gninoue-dev/Bot-Ozen-MD-panel
 
 ## 📂 Projects
 https://gninoue-dev.github.io/gameSnake/
+https://github.com/gninoue-dev/Bot-Ozen-MD-panel
 *(to be added soon)*
 
 ---

@@ -20,6 +20,7 @@
 
 ## 📂 Projets
 https://gninoue-dev.github.io/gameSnake/
+https://github.com/gninoue-dev/Bot-Ozen-MD-panel
 
 *(à compléter bientôt)*
 

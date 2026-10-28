@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=FF8FB8&center=true&vCenter=true&width=620&lines=%C3%89tudiant+en+G%C3%A9nie+Logiciel+%F0%9F%8E%93;Toujours+en+train+d%27apprendre+%F0%9F%93%9A;J%27apprends+en+construisant+des+projets+%F0%9F%9B%A0%EF%B8%8F;Web+%C2%B7+Mobile+%C2%B7+Jeux+%C2%B7+Multim%C3%A9dia+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=FF8FB8&center=true&vCenter=true&width=620&lines=%C3%89tudiant+en+Licence+3+IGL+%F0%9F%8E%93;Toujours+en+train+d%27apprendre+%F0%9F%93%9A;J%27apprends+en+construisant+des+projets+%F0%9F%9B%A0%EF%B8%8F;Web+%C2%B7+Mobile+%C2%B7+Jeux+%C2%B7+Multim%C3%A9dia+%E2%9C%A8" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👋 Salut, moi c'est Jean-Marc
 
-🎓 Étudiant en **Génie Logiciel (Licence 2)**
+🎓 Étudiant en **Licence 3 IGL** (Informatique et Génie Logiciel)
 💻 Passionné par le **développement web, mobile, jeu vidéo** et la **création multimédia**
 📚 J'ai une vraie **soif d'apprendre** : chaque projet ici est une occasion de découvrir quelque chose de nouveau
 🤝 J'aime expérimenter, me tromper, recommencer… et partager ce que j'apprends avec la communauté
@@ -33,10 +33,10 @@
 ## 🌱 Ce que j'apprends en ce moment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,supabase,kotlin,androidstudio,python&perline=5" alt="en apprentissage"/>
+  <img src="https://skillicons.dev/icons?i=react,supabase,kotlin,androidstudio,python,laravel,godot,blender,electron&perline=9" alt="en apprentissage"/>
 </p>
 
-<p align="center"><i>Appris en construisant mes projets : une marketplace en React + Supabase, une appli Android en Kotlin, un assistant IA en Python…</i></p>
+<p align="center"><i>Appris en construisant mes projets : une marketplace en React + Supabase, une appli Android en Kotlin, un assistant IA en Python, un éditeur d'animation avec Electron, des jeux avec Godot et Blender…</i></p>
 
 ---
 
@@ -65,6 +65,24 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🦴 <a href="https://github.com/gninoue-dev/Worldnime2D">Worldnime2D</a></h3>
+      Éditeur d'animation 2D par squelette, libre et open source (Windows et Linux), avec une formation vidéo de 22 leçons.
+      <br/><br/>
+      📖 <i>Ce que j'y apprends : Electron, PixiJS, le rendu 2D et l'animation par os.</i>
+      <br/><br/>
+      🚧 <i>En cours</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 <a href="https://github.com/gninoue-dev/tontina">Tontina</a></h3>
+      Application web de gestion des tontines : membres, tirage au sort, cotisations en espèces ou en mobile money, page publique de transparence.
+      <br/><br/>
+      📖 <i>Ce que j'y apprends : Laravel, les tests automatisés, modéliser un vrai besoin.</i>
+      <br/><br/>
+      🚧 <i>En cours</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>⚔️ <a href="https://github.com/gninoue-dev/ZAOMON">ZAOMON</a></h3>
       Jeu d'action-plateforme : un guerrier Guéré récupère 5 masques ancestraux pour sauver son village de l'esprit maléfique Duga.
       <br/><br/>
@@ -73,10 +91,30 @@
       🚧 <i>En cours</i>
     </td>
     <td width="50%" valign="top">
-      <h3>⏱️ <a href="https://github.com/gninoue-dev/FocusFlow">FocusFlow</a></h3>
-      Mini-application Android de gestion du temps et des priorités.
+      <h3>🗓️ <a href="https://github.com/gninoue-dev/FocusFlow">DJOMAN (ex-FocusFlow)</a></h3>
+      Application Android d'organisation pensée pour l'Afrique : emploi du temps, habitudes, objectifs, minuteur de concentration.
       <br/><br/>
-      📖 <i>Ce que j'y ai appris : mes premiers pas sur Android.</i>
+      📖 <i>Ce que j'y apprends : Kotlin, Jetpack Compose, une base de données locale avec Room.</i>
+      <br/><br/>
+      🚧 <i>En cours</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌄 <a href="https://github.com/gninoue-dev/fond-vivant">Fond Vivant</a></h3>
+      Fonds d'écran animés et photos pour Linux et Windows, fluides à 60 images par seconde.
+      <br/><br/>
+      📖 <i>Ce que j'y apprends : le C, piloter un lecteur vidéo, une interface en PySide6.</i>
+      <br/><br/>
+      🚧 <i>En cours</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/gninoue-dev/biblio-code">biblio-code</a></h3>
+      Ma bibliothèque de modules réutilisables et testés : web, banque CI, Android, Godot, Python.
+      <br/><br/>
+      📖 <i>Ce que j'y apprends : écrire du code réutilisable et le tester.</i>
+      <br/><br/>
+      👉 <a href="https://gninoue-dev.github.io/biblio-code/demo/"><b>Voir la démo</b></a>
     </td>
   </tr>
   <tr>
@@ -96,7 +134,6 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/gninoue-dev/Bot-Ozen-MD-panel"><img src="https://img.shields.io/badge/Bot%20Ozen%20MD%20panel-6B2D5C?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/gninoue-dev?tab=repositories"><img src="https://img.shields.io/badge/Tous%20mes%20dépôts-0E0820?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -127,13 +164,13 @@
 
 ## 👋 Hi, I'm Jean-Marc
 
-🎓 Software Engineering student (2nd year)
+🎓 Computer Science and Software Engineering student (3rd year of bachelor's degree)
 💻 Passionate about web, mobile, game development and multimedia creation
 📚 I have a real **thirst for learning**: every project here is a chance to discover something new
 🤝 I love experimenting, making mistakes, trying again… and sharing what I learn
 
 **Already using:** HTML, CSS, JavaScript, PHP, C, C++, After Effects
-**Currently learning:** React, Supabase, Kotlin / Android, Python
+**Currently learning:** React, Supabase, Kotlin / Android, Python, Laravel, Godot, Blender, Electron
 
 ### 🎯 What I want to learn
 - Build solid **web and mobile** development skills
